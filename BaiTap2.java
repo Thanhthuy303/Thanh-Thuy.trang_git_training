@@ -46,6 +46,7 @@ public class BaiTap2 {
 		compareToProductSize(numWantToAdd,addedProductSize);
 //		6. Quit the browser after finishing the case
 		finishTesting();
+		// Hello BaiTap5
 	}
 	
 	
