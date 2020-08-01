@@ -25,7 +25,7 @@ public class BaiTap5 {
 		//driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		Thread.sleep(5000);		
         setValue(37,48);  
-		// Hello 
+		// Hello Baitap2
     }
 	
 	
