@@ -24,7 +24,8 @@ public class BaiTap5 {
 		System.out.println("Go to move slider");
 		//driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		Thread.sleep(5000);		
-        setValue(37,48);      
+        setValue(37,48);  
+		// Hello 
     }
 	
 	
